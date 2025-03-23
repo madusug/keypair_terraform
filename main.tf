@@ -21,7 +21,7 @@ echo "<h1>Hello World from $(hostname -f)</h1>" > /var/www/html/index.html
 EOF
 
     tags = {
-        name = "james_instance"
+        Name = "james_instance"
     }
   
 }
